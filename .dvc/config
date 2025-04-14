@@ -1,0 +1,6 @@
+[core]
+    remote = myremote
+['remote "myremote"']
+    url = azure:
+    account_name = 
+    account_key = 
